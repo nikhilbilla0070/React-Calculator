@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//nikhilbilla0070.github.io/React-Calculator/static/css/main.dd88a8b7.css",
+    "main.js": "/http//nikhilbilla0070.github.io/React-Calculator/static/js/main.1d7c992e.js",
+    "index.html": "/http//nikhilbilla0070.github.io/React-Calculator/index.html",
+    "main.dd88a8b7.css.map": "/http//nikhilbilla0070.github.io/React-Calculator/static/css/main.dd88a8b7.css.map",
+    "main.1d7c992e.js.map": "/http//nikhilbilla0070.github.io/React-Calculator/static/js/main.1d7c992e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd88a8b7.css",
+    "static/js/main.1d7c992e.js"
+  ]
+}
